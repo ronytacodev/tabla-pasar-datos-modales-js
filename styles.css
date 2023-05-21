@@ -7,8 +7,13 @@
     transition: .4s;
 }
 
-.close {
+.closeEdit {
     top: 5em;
+    left: 70%;
+}
+
+.closeNew {
+    top: 6em;
     left: 70%;
 }
 
